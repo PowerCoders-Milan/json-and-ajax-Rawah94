@@ -1,7 +1,7 @@
 let object = {
     id: 1,
     title: "this is a note",
-    content: "This is the note"
+    content: "This is the amazing content of the note!"
   };
 
 object.subTitle = "my note";
